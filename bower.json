@@ -1,0 +1,27 @@
+{
+  "name": "shutup_ie",
+  "version": "1.0.0",
+  "authors": [
+    "JariZ <jarizw@gmail.com>"
+  ],
+  "description": "Makes IE shut up",
+  "main": "shutup.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "shut",
+    "the",
+    "fuck",
+    "up"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
